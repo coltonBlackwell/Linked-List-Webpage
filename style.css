@@ -1,0 +1,8 @@
+.titleBorder {
+	background-color: #9e8e75;
+	border-color: black;
+    border-width: 5px;
+    border-style: solid;
+	margin-left: 0.6vw;
+    margin-right: 0.6vw;
+}
