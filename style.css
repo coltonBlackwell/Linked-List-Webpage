@@ -10,4 +10,24 @@
 body {
 	background-color: rgb(168, 152, 142);
 	height: 100%;
+    z-index: 0;
+}
+
+.blankSpace{
+    height: 5vw;
+}
+
+.nodeBox{
+
+    background-color: #9e8e75;
+	border-color: #000000;
+    border-width: 3px;
+    height: 11vw;
+    border-style: solid;
+
+}
+
+.arrow{
+    width: 4vw;
+    height: 4vw;
 }
