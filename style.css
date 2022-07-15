@@ -6,3 +6,8 @@
 	margin-left: 0.6vw;
     margin-right: 0.6vw;
 }
+
+body {
+	background-color: rgb(168, 152, 142);
+	height: 100%;
+}
